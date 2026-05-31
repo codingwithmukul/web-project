@@ -2,6 +2,8 @@
 
 **Discover cities through local eyes.**
 
+🚀 **[View Live Project Hosted App](https://ais-pre-bp5qxafqooimhzah5b7tfd-182916276211.asia-southeast1.run.app)**
+
 LocalLink is a unique social media and gig-economy platform designed specifically for college students (like B.Tech students) who want to earn a part-time income serving as local tour guides. It bridges the gap between tourists looking for authentic native experiences and students who intimately know their city's hidden gems.
 
 ---
