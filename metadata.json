@@ -1,0 +1,6 @@
+{
+  "name": "Web Project",
+  "description": "A responsive React web project starter for Mukul.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
